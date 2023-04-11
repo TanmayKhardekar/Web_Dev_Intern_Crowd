@@ -1,0 +1,39 @@
+.homeimage img{
+    width: 100%;
+    height: 90vh;
+}
+.homecontent{
+    position: absolute;
+    top: 250px;
+    right: 80px;
+}
+.homecontent h1{
+    font-size: 50px;
+}
+.navbar{
+    color: #fff;
+    font-size: 20px;
+}
+.about{
+    width: 80%;
+    margin: auto;
+    margin-top: 5rem;
+    overflow: hidden;
+}
+.aboutcontent{
+    margin: 5rem;
+}
+.aboutcontent button{
+    color: #fff;
+    background-color: red;
+    border: none;
+    border-radius: 7px ;
+    padding: 5px;
+}
+.about .image{
+    overflow: hidden; 
+}
+.about .image img{
+    width: 80%;
+    height: 60vh;
+}
